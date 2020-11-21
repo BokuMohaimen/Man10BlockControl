@@ -1,0 +1,6 @@
+name: Man10BlockControl
+version: @version@
+main: control.man10blockcontrol.Man10BlockControl
+api-version: 1.16
+commands:
+  mbp:
